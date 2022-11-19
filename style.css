@@ -37,10 +37,11 @@ header {
 }
 .img {
 
-    height: 150px;
-    width: 250px;
+    width: 20%;
+    height: 80px;
     background-color: black;
     border: 1px solid #000;
+    margin-bottom: 15px;
 }
 .block_tema {
     margin-bottom: 15px;
@@ -51,6 +52,7 @@ footer {
     align-items: center;
     height: 200px;
     background: grey;
+    bottom: 0;
 }
 /* .content{
     background-color: #ffffff;
